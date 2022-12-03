@@ -1,4 +1,4 @@
-# Investigation of weakness in function
- Investigation of weakness in a function, the goal is to get to Unaccessible protected function useing the right input.
+# Investigation of a weakness in the function
+ Investigation of a weakness in the function. The goal is to get to an unaccessible protected function using the right input.
  
- all the explanation is written in the docs 
+ the explanation of the process is written in the doc 
